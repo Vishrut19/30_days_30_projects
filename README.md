@@ -8,3 +8,4 @@ This is the list of 30 Days 30 Projects that I am planning to create.
 | 3 | Drink Water | https://codepen.io/vishrut19/details/QWBgGKY | https://day3-drink-water.netlify.app |
 | 4 | Split Landing | Check Github | https://day4-split-landing-page.netlify.app |
 | 5 | Form Input Wave | https://codepen.io/vishrut19/pen/MWBveLo | https://day5-form-input-wave.netlify.app |
+| 6 | Rotating Navbar | Check GitHub  | https://day6-rotating-navigation.netlify.app |
