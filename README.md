@@ -12,3 +12,4 @@ This is the list of 30 Days 30 Projects that I am planning to create.
 | 7 | Expanding Cards | https://codepen.io/vishrut19/pen/ExpvLRG  | https://day7-expanding-cards.netlify.app |
 | 8 | Blurry Loading | https://codepen.io/vishrut19/pen/QWBqeYv  | https://day8-blurry-loading.netlify.app |
 | 9 | Analog Clock | https://codepen.io/vishrut19/pen/eYjeKOM  | https://day9-analog-clock.netlify.app |
+| 10 | Analog Clock | https://codepen.io/vishrut19/pen/jOpYVbm  | https://day10-rotating-gallery.netlify.app |
