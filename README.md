@@ -1,5 +1,6 @@
-30 Days 30 Projects
-This is the list of 30 Days 30 Projects that I am planning to create.
+**30 Days 30 Projects**<br/>
+
+This is the curated list of  30 Projects that I am planning to create within 30 days and it contains websites link with source code of it too.
 
 | No. of Days| Name of the Project | Code Pen Link | Live Website Link |
 |:---:|:---:|:---:|:---:|
