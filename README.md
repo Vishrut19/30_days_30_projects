@@ -15,3 +15,4 @@ This is the curated list of  30 Projects that I am planning to create within 30 
 | 9 | Analog Clock | https://codepen.io/vishrut19/pen/eYjeKOM  | https://day9-analog-clock.netlify.app |
 | 10 | Rotating Image Gallery | https://codepen.io/vishrut19/pen/jOpYVbm | https://day10-rotating-gallery.netlify.app |
 | 11 | Vertical Slider | https://codepen.io/vishrut19/pen/wvxpRvR | https://day11-vertical-slider.netlify.app/ |
+| 12 | Playable Piano | Check GitHub | https://day12-playable-piano.netlify.app |
