@@ -18,4 +18,4 @@ This is the curated list of  30 Projects that I am planning to create within 30 
 | 12 | Playable Piano | Check GitHub | <https://day12-playable-piano.netlify.app> |
 | 13 | Image Resizer | <https://codepen.io/vishrut19/pen/zYLREEj> | <https://day13-image-resizer.netlify.app> |
 | 14 | QR Code Generator | <https://codepen.io/vishrut19/pen/OJwvbdM> | <https://day14-qr-code-generator.netlify.app> |
-| 15 | Memory Card Game | Check Github | <https://day15-memory-card-game.netlify.app/> |
+| 15 | Memory Card Game | Check Github | <https://day15-memory-card-game.netlify.app> |
