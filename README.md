@@ -20,3 +20,4 @@ This is the curated list of  30 Projects that I am planning to create within 30 
 | 14 | QR Code Generator | <https://codepen.io/vishrut19/pen/OJwvbdM> | <https://day14-qr-code-generator.netlify.app> |
 | 15 | Memory Card Game | Check Github | <https://day15-memory-card-game.netlify.app> |
 | 16 | Typing Speed Test | Check Github | <https://day16-typing-speed-test.netlify.app> |
+| 17 | Scroll Anmimation | <https://codesandbox.io/s/ecstatic-hertz-d0gwvl> | <https://day17-scroll-animation.netlify.app> |
