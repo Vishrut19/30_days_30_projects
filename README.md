@@ -21,3 +21,4 @@ This is the curated list of  30 Projects that I am planning to create within 30 
 | 15 | Memory Card Game | Check Github | <https://day15-memory-card-game.netlify.app> |
 | 16 | Typing Speed Test | Check Github | <https://day16-typing-speed-test.netlify.app> |
 | 17 | Scroll Anmimation | <https://codesandbox.io/s/ecstatic-hertz-d0gwvl> | <https://day17-scroll-animation.netlify.app> |
+| 18 | Animated Navbar | <https://codesandbox.io/s/animated-navbar-7sv8d6> | <https://day18-animated-navbar.netlify.app/> |
