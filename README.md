@@ -23,3 +23,4 @@ This is the curated list of  30 Projects that I am planning to create within 30 
 | 17 | Scroll Anmimation | <https://codesandbox.io/s/ecstatic-hertz-d0gwvl> | <https://day17-scroll-animation.netlify.app> |
 | 18 | Animated Navbar | <https://codesandbox.io/s/animated-navbar-7sv8d6> | <https://day18-animated-navbar.netlify.app> |
 | 19 | GitHub Profile Search App | <https://codesandbox.io/s/github-profile-search-app-c10hwq> | <https://day19-github-profile-search-app.netlify.app> |
+| 20 | Toast Notification or (Popups) | <https://codesandbox.io/s/toast-notifications-4om4dy> | <https://day20-toast-notifications.netlify.app> |
