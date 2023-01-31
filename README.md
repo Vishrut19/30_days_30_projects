@@ -24,3 +24,4 @@ This is the curated list of  30 Projects that I am planning to create within 30 
 | 18 | Animated Navbar | <https://codesandbox.io/s/animated-navbar-7sv8d6> | <https://day18-animated-navbar.netlify.app> |
 | 19 | GitHub Profile Search App | <https://codesandbox.io/s/github-profile-search-app-c10hwq> | <https://day19-github-profile-search-app.netlify.app> |
 | 20 | Toast Notification or (Popups) | <https://codesandbox.io/s/toast-notifications-4om4dy> | <https://day20-toast-notifications.netlify.app> |
+| 21 | Social Increment Counter | <https://codesandbox.io/s/social-increment-counter-jplzho> | <https://day21-social-increment-counter.netlify.app> |
