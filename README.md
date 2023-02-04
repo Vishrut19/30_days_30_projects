@@ -28,3 +28,4 @@ This is the curated list of  30 Projects that I am planning to create within 30 
 | 22 | Weather App | <https://github.com/Vishrut19/30_days_30_projects/tree/main/Weather%20App> | <https://day22-weather-app.netlify.app> |
 | 23 | Progress Steps | <https://codesandbox.io/s/progress-steps-o50h7b> | <https://day23-progress-steps.netlify.app> |
 | 24 | Product Design Card | <https://codesandbox.io/s/product-design-card-nyti7q> | <https://day24-product-design-card.netlify.app> |
+| 25 | Draggable Slider Tabs | <https://codesandbox.io/s/draggable-slider-tabs-07pov3> | <https://day25-draggable-slider-tabs.netlify.app> |
