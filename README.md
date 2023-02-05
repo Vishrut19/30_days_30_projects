@@ -29,3 +29,4 @@ This is the curated list of  30 Projects that I am planning to create within 30 
 | 23 | Progress Steps | <https://codesandbox.io/s/progress-steps-o50h7b> | <https://day23-progress-steps.netlify.app> |
 | 24 | Product Design Card | <https://codesandbox.io/s/product-design-card-nyti7q> | <https://day24-product-design-card.netlify.app> |
 | 25 | Draggable Slider Tabs | <https://codesandbox.io/s/draggable-slider-tabs-07pov3> | <https://day25-draggable-slider-tabs.netlify.app> |
+| 26 | Color Palette Generator | <https://codesandbox.io/s/color-palette-generator-x2kptw> | <https://day26-color-palette-generator.netlify.app> |
