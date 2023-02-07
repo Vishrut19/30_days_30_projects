@@ -31,3 +31,4 @@ This is the curated list of  30 Projects that I am planning to create within 30 
 | 25 | Draggable Slider Tabs | <https://codesandbox.io/s/draggable-slider-tabs-07pov3> | <https://day25-draggable-slider-tabs.netlify.app> |
 | 26 | Color Palette Generator | <https://codesandbox.io/s/color-palette-generator-x2kptw> | <https://day26-color-palette-generator.netlify.app> |
 | 27 | Random Quote Generator | <https://codesandbox.io/s/random-quote-generator-pwl1rl> | <https://day27-random-quote-generator.netlify.app> |
+| 28 | Palindrome Checker | <https://codesandbox.io/s/palindrome-checker-1yjrnq> | <https://day28-palindrome-checker.netlify.app> |
