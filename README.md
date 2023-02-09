@@ -33,4 +33,3 @@ This is the curated list of  30 Projects that I am planning to create within 30 
 | 27 | Random Quote Generator | <https://codesandbox.io/s/random-quote-generator-pwl1rl> | <https://day27-random-quote-generator.netlify.app> |
 | 28 | Palindrome Checker | <https://codesandbox.io/s/palindrome-checker-1yjrnq> | <https://day28-palindrome-checker.netlify.app> |
 | 29 | Language Translator | Check Github | <https://day29-language-transalator.netlify.app> |
-| 30 | Movie App | <https://codesandbox.io/s/movie-app-pughn2> | <https://day30-movie-app.netlify.app> |
